@@ -1,0 +1,2 @@
+This is a module I wrote to help me get an introduction into the kernel and kprobe, I don't have good fundamentals for this yet and what I got from this is the userspace arguments get stored in the kernel rdi register, which I thought was cool.
+I also learned that GFP_KERNEL is a blocking method for kmalloc, and that my program might unintentionally cause some kernel problems, however I'm not entirely sure which ones yet.
